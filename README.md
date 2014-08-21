@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-Nytt test
 
+Testar med ännu mer text
 
-Testar med ännu mer text.
+och tagit bort text i början
